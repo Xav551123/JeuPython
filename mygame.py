@@ -2,8 +2,8 @@ bonjour les copains
 salut landry le fantome
 
 
-def monstre.g
+def monstre.g:
 
-print ("monstreg")
+	print ("monstreg")
 
-monstre ()
+	monstre ()
