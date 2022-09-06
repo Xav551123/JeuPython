@@ -20,7 +20,7 @@
     <value>Problème avec le magasin de données sélectionné</value>
   </data>
   <data name="ProblemWithDataStoreExplanation" type="System.String">
-    <value>Problème avec le magasin de données sélectionné. Ce problème peut être dû à un nom de serveur ou à des informations d'identification non valides, ou encore à une autorisation insuffisante. La fonctionnalité de gestion de rôles peut également ne pas être activée. Cliquez sur le bouton ci-dessous pour être redirigé vers une page où vous pourrez sélectionner un nouveau magasin de données. </value>
+    <value>Problème avec le magasin de données sélectionné. Cela peut être dû à un nom de serveur ou à des informations d'identification non valides, ou encore à une autorisation insuffisante. La fonctionnalité de gestion de rôles peut également ne pas être activée. Cliquez sur le bouton ci-dessous pour être redirigé vers une page où vous pourrez sélectionner un nouveau magasin de données. </value>
   </data>
   <data name="ExceptionMessage" type="System.String">
     <value>Le message suivant peut vous aider à diagnostiquer le problème : </value>

@@ -86,7 +86,7 @@
     <value>Rôles</value>
   </data>
   <data name="RequiredField" type="System.String">
-    <value>Champ requis</value>
+    <value>Champ obligatoire</value>
   </data>
   <data name="NotSet" type="System.String">
     <value>[non défini]</value>

@@ -17,7 +17,7 @@
     <value>Ajouter le rôle</value>
   </data>
   <data name="AreYouSure" type="System.String">
-    <value>Êtes-vous sûr de vouloir supprimer le rôle &lt;b&gt;{0}&lt;/b&gt; ?  </value>
+    <value>Voulez-vous vraiment supprimer le rôle &lt;b&gt;{0}&lt;/b&gt; ?  </value>
   </data>
   <data name="CreateNewRole" type="System.String">
     <value>Créer un nouveau rôle</value>
@@ -35,7 +35,7 @@
     <value>Rôles existants</value>
   </data>
   <data name="Instructions" type="System.String">
-    <value>&lt;b&gt;Définissez les rôles&lt;/b&gt;&lt;br&gt;&lt;br&gt;Vous pouvez éventuellement ajouter des rôles ou des groupes, qui vous permettent d'autoriser ou d'empêcher des groupes d'utilisateurs à accéder à des dossiers spécifiques de votre site Web. Par exemple, vous pouvez créer des rôles tels que "gestion", "ventes" ou "membres", chacun avec un accès à des dossiers spécifiques différents. Ultérieurement, vous pouvez ajouter des utilisateurs à des rôles et les utilisateurs auront les autorisations d'accès associées à ces rôles. &lt;br&gt;&lt;br&gt;Tapez le nom du rôle que vous souhaitez créer et cliquez sur Ajouter le rôle. &lt;br&gt;&lt;br&gt;Si vous ne voulez pas créer de rôles, assurez-vous que la case à cocher ci-dessous est désactivée et cliquez sur Suivant pour ignorer cette étape.&lt;br&gt;&lt;br&gt;</value>
+    <value>&lt;b&gt;Définissez les rôles&lt;/b&gt;&lt;br&gt;&lt;br&gt;Vous pouvez éventuellement ajouter des rôles ou des groupes, qui vous permettent d'autoriser ou d'empêcher des groupes d'utilisateurs à accéder à des dossiers spécifiques de votre site Web. Par exemple, vous pouvez créer des rôles tels que "gestion", "ventes" ou "membres", chacun avec un accès à des dossiers spécifiques différents. Ultérieurement, vous pouvez ajouter des utilisateurs à des rôles et les utilisateurs auront les autorisations d'accès associées à ces rôles. &lt;br&gt;&lt;br&gt;Tapez le nom du rôle que vous voulez créer et cliquez sur Ajouter le rôle. &lt;br&gt;&lt;br&gt;Si vous ne voulez pas créer de rôles, assurez-vous que la case à cocher ci-dessous est désactivée et cliquez sur Suivant pour ignorer cette étape.&lt;br&gt;&lt;br&gt;</value>
   </data>
   <data name="NewRoleName" type="System.String">
     <value>Nouveau nom de rôle :</value>

@@ -29,7 +29,7 @@
         <value>Une page d'erreurs par défaut doit être définie dans le contrôle d'arborescence</value>
     </data>
     <data name="ErrorPageWarningLabel" type="System.String">
-        <value>Le paramètre sélectionné ne peut pas être défini dans le contrôle d'arborescence, car la page d'erreurs par défaut ne se trouve pas dans le répertoire de l'application : </value>
+        <value>Le paramètre actuel ne peut pas être défini dans le contrôle d'arborescence, car la page d'erreurs par défaut ne se trouve pas dans le répertoire de l'application : </value>
     </data>
     <data name="Instructions" type="System.String">
         <value>Vous pouvez utiliser les pages d'erreurs par défaut pour le signalement des erreurs .aspx ou spécifier une page .aspx personnalisée.</value>

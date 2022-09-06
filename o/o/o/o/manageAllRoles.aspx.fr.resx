@@ -20,7 +20,7 @@
     <value>Ajouter le rôle</value>
   </data>
   <data name="AreYouSure" type="System.String">
-    <value>Êtes-vous sûr de vouloir supprimer le rôle : </value>
+    <value>Voulez-vous vraiment supprimer le rôle : </value>
   </data>
 
 

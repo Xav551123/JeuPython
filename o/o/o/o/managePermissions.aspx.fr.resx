@@ -17,7 +17,7 @@
     <value>Ajouter une nouvelle règle d'accès</value>
   </data>
   <data name="AreYouSure" type="System.String">
-    <value>Êtes-vous sûr de vouloir supprimer la règle :</value>
+    <value>Voulez-vous vraiment supprimer la règle :</value>
   </data>
   <data name="Delete" type="System.String">
     <value>Supprimer</value>

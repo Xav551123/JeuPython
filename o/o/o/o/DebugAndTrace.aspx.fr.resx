@@ -29,7 +29,7 @@
         <value>Afficher les informations de traçage sur des pages individuelles</value>
     </data>
     <data name="DisplayTraceOutputForLabel" type="System.String">
-        <value>Afficher la sortie de traçage pour :</value>
+        <value>Afficher la sortie de trace pour :</value>
     </data>
     <data name="EnableDebugLabel" type="System.String">
         <value>Activer le débogage</value>

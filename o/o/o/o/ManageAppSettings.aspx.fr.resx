@@ -14,7 +14,7 @@
     </resheader>
 
     <data name="ConfirmationText" type="System.String">
-        <value>Êtes-vous sûr de vouloir supprimer le paramètre d'application "&lt;b&gt;{0}&lt;/b&gt;" ?</value>
+        <value>Voulez-vous vraiment supprimer le paramètre d'application "&lt;b&gt;{0}&lt;/b&gt;" ?</value>
     </data>
     <data name="CreateAppSettingLinkText" type="System.String">
         <value>Créer un nouveau paramètre d'application</value>

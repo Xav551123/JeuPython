@@ -14,7 +14,7 @@
   </resheader>
 
   <data name="ExplainTimeOut" type="System.String">
-    <value>Par mesure de sécurité, le délai d'attente de l'outil Administration de site Web expire après une période d'inactivité. Toute modification apportée à machine.config ou web.config peut également nécessiter le redémarrage de l'outil. Pour poursuivre la configuration de votre site Web, redémarrez l'outil.</value>
+    <value>Par mesure de sécurité, l'outil Administration de site Web expire après un délai d'inactivité. Toute modification apportée à machine.config ou web.config peut également nécessiter le redémarrage de l'outil. Pour poursuivre la configuration de votre site Web, redémarrez l'outil.</value>
   </data>   
   <data name="ToolHasTimedOut" type="System.String">
     <value>Le délai d'attente de l'outil Administration de site Web a expiré</value>

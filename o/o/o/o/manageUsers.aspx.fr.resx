@@ -22,7 +22,7 @@
     <value>Ajoutez &lt;b&gt;" {0} "&lt;/b&gt; aux rôles :</value>
   </data>
   <data name="AreYouSure" type="System.String">
-    <value>Êtes-vous sûr de vouloir supprimer l'utilisateur "&lt;b&gt;{0}&lt;/b&gt;" ?&lt;br&gt;&lt;br&gt;Toutes les informations sur cet utilisateur seront supprimées, y compris son nom d'utilisateur, son appartenance à des rôles et toutes les valeurs des propriétés de profil qui lui sont associées.</value>
+    <value>Voulez-vous vraiment supprimer l'utilisateur "&lt;b&gt;{0}&lt;/b&gt;" ?&lt;br&gt;&lt;br&gt;Toutes les informations sur cet utilisateur seront supprimées, y compris son nom d'utilisateur, son appartenance à des rôles et toutes les valeurs des propriétés de profil qui lui sont associées.</value>
   </data>
   <data name="Back" type="System.String">
     <value>Précédent</value>

@@ -23,7 +23,7 @@
     <value>À partir d'un réseau local</value>
   </data>  
   <data name="InternetExplanation" type="System.String">
-    <value>Sélectionnez cette option si les utilisateurs accèdent à votre site Web à partir de l'Internet public. Les utilisateurs devront ouvrir une session à l'aide d'un formulaire Web. Le site utilisera une authentification par formulaires pour identifier les utilisateurs par rapport aux informations stockées dans une base de données.</value>
+    <value>Sélectionnez cette option si les utilisateurs accèdent à votre site Web à partir de l'Internet public. Les utilisateurs devront ouvrir une session à l'aide d'un formulaire Web. Le site utilisera une authentification par formulaire pour identifier les utilisateurs par rapport aux informations stockées dans une base de données.</value>
   </data>
   <data name="NetworkExplanation" type="System.String">
     <value>Sélectionnez cette option si les utilisateurs accèdent à votre site Web uniquement à partir d'un réseau local privé. Le site utilisera l'authentification intégrée de Microsoft Windows pour identifier les utilisateurs. Seuls les utilisateurs disposant d'un nom d'utilisateur et d'un mot de passe Windows valides seront en mesure d'accéder à votre site.</value>

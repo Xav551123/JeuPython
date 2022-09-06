@@ -17,13 +17,13 @@
     <value>Ajouter cette règle</value>
   </data>
   <data name="AreYouSure" type="System.String">
-    <value>Êtes-vous sûr de vouloir supprimer la règle : {0} ? </value>
+    <value>Voulez-vous vraiment supprimer la règle : {0} ? </value>
   </data>
   <data name="Delete" type="System.String">
     <value>Supprimer</value>
   </data>
   <data name="DeleteRule" type="System.String">
-    <value>Supprimer une règle</value>
+    <value>Règle de suppression</value>
   </data>
   <data name="DimmedRules" type="System.String">
     <value>Les règles grisées sont héritées de leur parent et ne peuvent pas être modifiées à ce niveau.</value>
