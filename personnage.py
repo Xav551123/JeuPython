@@ -1,9 +1,3 @@
-class personnage
-
-    nom = Landry
-
-	def personnage:
-
-	print ("creation personnage")
-
-	personnage ()
+def personnage(Pseudo, PV, Force, Armure):
+    MonPerso = [Pseudo, PV, Force, Armure]
+    return MonPerso
