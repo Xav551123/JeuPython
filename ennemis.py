@@ -1,0 +1,2 @@
+def ennemis():
+    print("ennemis")
