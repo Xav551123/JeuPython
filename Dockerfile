@@ -1,4 +1,11 @@
-FROM python:3.8-slim-buster
+FROM python:3.9
+COPY . /app
 WORKDIR /app
-COPY code_python_tp/* /app/
-CMD [ "python3", "./main.py" ]
+
+RUN pip install flask
+
+ENV PYTHONUNBUFFERED 1
+
+EXPOSE 8001
+
+CMD python3 ./main2.py
