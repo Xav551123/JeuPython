@@ -10,6 +10,7 @@ import os
 def Menu():
     if request.form:
        jeu()
+       return render_template("home.html")
     return render_template("home.html")
 
 
