@@ -2,7 +2,7 @@ from flask import Flask,render_template,request,send_file,redirect,url_for, Resp
 import fight, createMob, personnage
 from compteurEnnemisTues import *
 app = Flask(__name__)
-from main import jeu
+
 import sys
 import os
 
@@ -24,7 +24,7 @@ def menu():
 
                 if MonPerso[1] > 0:
                     compteurkills=compteurEnnemisTue(compteurkills)
-        return render_template("home.html")
+        return render_template("home.html", name=nomperso, compteurkills=compteurkills, listeVaincus=listeVainc)
     return render_template("home.html")
 
 
