@@ -1,5 +1,6 @@
 from genMob import *
 
 def createMob():
-   nommob = input("Entrez le nom du monstre : ")
+   mesmonstres=["ponyo", "totoro", "princess mononoke"]
+   nommob = random.choice(mesmonstres)
    return genMob(nommob)
