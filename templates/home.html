@@ -16,4 +16,7 @@
 
 
 </form>
-
+{% if name %}
+<p id="Monstre vaincu">{{ name }} a vaincu {{ compteurkills }} ennemis</p>
+<p>{{listeVaincus }} ont été tués, bravo !</p>
+{% endif %}
