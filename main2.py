@@ -7,10 +7,23 @@ import os
 
 @app.route('/',methods=['GET','POST'])
 
-def Menu():
+def menu():
     if request.form:
-       jeu()
-       return render_template("home.html")
+        compteurkills = 0
+        playagain = 0
+
+        while playagain == 0:
+
+            nomperso = input("Choisissez un pseudo pour votre personnage : ")
+            MonPerso = personnage.personnage(nomperso,20,6,3)
+
+            while MonPerso[1] > 0:
+                Ennemi = createMob.createMob()
+                fight.fight(MonPerso, Ennemi)
+
+                if MonPerso[1] > 0:
+                    compteurkills=compteurEnnemisTue(compteurkills)
+         return render_template("home.html")
     return render_template("home.html")
 
 
