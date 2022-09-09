@@ -13,17 +13,17 @@ def menu():
         compteurkills = 0
         playagain = 0
 
-        while playagain == 0:
+     
 
-            nomperso = request.form['pseudo']  
-            MonPerso = personnage.personnage(nomperso,20,6,3)
+        nomperso = request.form['pseudo']  
+        MonPerso = personnage.personnage(nomperso,20,6,3)
 
-            while MonPerso[1] > 0:
-                Ennemi = createMob.createMob()
-                fight.fight(MonPerso, Ennemi)
+        while MonPerso[1] > 0:
+            Ennemi = createMob.createMob()
+            fight.fight(MonPerso, Ennemi)
 
-                if MonPerso[1] > 0:
-                    compteurkills=compteurEnnemisTue(compteurkills)
+            if MonPerso[1] > 0:
+                compteurkills=compteurEnnemisTue(compteurkills)
         return render_template("home.html", name=nomperso, compteurkills=compteurkills, listeVaincus=listeVainc)
     return render_template("home.html")
 
