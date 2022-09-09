@@ -24,7 +24,7 @@ def menu():
 
             if MonPerso[1] > 0:
                 compteurkills=compteurEnnemisTue(compteurkills)
-        return render_template("home.html", name=nomperso, compteurkills=compteurkills, listeVaincus=listeVainc)
+        return render_template("home.html", name=nomperso, compteurkills=compteurkills, )
     return render_template("home.html")
 
 
