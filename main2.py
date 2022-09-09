@@ -15,7 +15,7 @@ def menu():
 
         while playagain == 0:
 
-            nomperso = input("Choisissez un pseudo pour votre personnage : ")
+            nomperso = request.form['name']  
             MonPerso = personnage.personnage(nomperso,20,6,3)
 
             while MonPerso[1] > 0:
